@@ -1,5 +1,5 @@
 import re
-from interacoes import *
+from .interacoes import listResponses
 
 '''
 MÉTODOS DO PLEBOT                                  

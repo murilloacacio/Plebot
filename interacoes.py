@@ -2,9 +2,9 @@
 RESPOSTAS DO PLEBOT
 '''
                 # Saudações
-listResponses = [[r'boa tarde', "Saudações nobre cliente"], 
-                [r'boa noite', "Saudações nobre cliente"],
-                [r'bom dia', "Saudações nobre cliente"],
+listResponses = [[r'tarde', "Saudações nobre cliente"], 
+                [r'noite', "Saudações nobre cliente"],
+                [r'dia', "Saudações nobre cliente"],
                 [r'eae', "Saudações nobre cliente"], 
                 [r'olá', "Saudações nobre cliente"], 
                 [r'ola', "Saudações nobre cliente"],
